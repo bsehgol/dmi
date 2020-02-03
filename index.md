@@ -22,7 +22,7 @@ Satisfying - so people want to come back
 ```
 
 #### A lot of ux designers call themselves product designers.
-### Product shouldn’t come with a manual with instructions it should be intuitive. 
+#### Product shouldn’t come with a manual with instructions it should be intuitive. 
 #### Focus on the user and all else will follow 
 #### Desirable experience = good business 
 
