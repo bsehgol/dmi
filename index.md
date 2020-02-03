@@ -28,8 +28,8 @@ Satisfying - so people want to come back
 
 ```markdown
 **Research and _ideation_***
-
-[WHO Report](www.timesvr.com) and ![Infant Mortality Rate](https://images.unsplash.com/photo-1562887106-0ba63ac82e02?ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=416&h=312&q=60)
 ```
+[WHO Report](www.timesvr.com) and ![Infant Mortality Rate](https://images.unsplash.com/photo-1562887106-0ba63ac82e02?ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=416&h=312&q=60)
+
 
 
