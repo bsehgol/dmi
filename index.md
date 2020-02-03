@@ -1,4 +1,4 @@
-# Welcome to Designing Meaningful Interactions by Katherine Dillon
+## Welcome to Designing Meaningful Interactions by Katherine Dillon
 
 You can view [Week 1 assignment](https://docs.google.com/presentation/d/1vgpuJA4gBx7ddJbG7qAa_ueDPiDff4OaIl3Gv5FYZaU/edit#slide=id.p) to get an overview of the issue we discussed in class. 
 
@@ -29,7 +29,7 @@ Satisfying - so people want to come back
 ```markdown
 **Research and _ideation_***
 
-[WHO Report](url) and ![Infant Mortality Rate](https://images.unsplash.com/photo-1562887106-0ba63ac82e02?ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=416&h=312&q=60)
+[WHO Report](www.timesvr.com) and ![Infant Mortality Rate](https://images.unsplash.com/photo-1562887106-0ba63ac82e02?ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=416&h=312&q=60)
 ```
 
 
