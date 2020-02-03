@@ -1,19 +1,29 @@
 ## Welcome to Designing Meaningful Interactions by Katherine Dillon
 
-You can use the [editor on GitHub](https://github.com/bsehgol/dmi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can view the [Week 1 assignment](https://docs.google.com/presentation/d/1vgpuJA4gBx7ddJbG7qAa_ueDPiDff4OaIl3Gv5FYZaU/edit#slide=id.p) to get an overview of the issue we discussed in class. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During the next six weeks we will study:
 
-### Markdown
+What is UX
+Discover - a problem
+Define - ideation, applying it to a problem
+Design UX
+Design UI - visual layer on the top, color, typogoraphy, white space usage 
+Develop and Test - user testing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### 5 characteristics of good UX:
 ```markdown
-Syntax highlighted code block
+Intuitive - without instructional manual
+Efficient - worth pepoles time,
+Memorable
+Anticipates errors
+Satisfying - so people want to come back
 
-# The problem
-## The solution
-### The interfaces
+# A lot of ux designers call themselves product designers.
+## Product shouldn’t come with a manual with instructions it should be intuitive. 
+### Focus on the user and all else will follow 
+#### Desirable experience = good business 
 
 - Bulleted
 - List
@@ -27,11 +37,5 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-
-
-### Support or Contact
 
 
