@@ -4,12 +4,12 @@ You can view [Week 1 assignment](https://docs.google.com/presentation/d/1vgpuJA4
 
 During the next six weeks we will study:
 
-What is UX
-Discover - a problem
-Define - ideation, applying it to a problem
-Design UX
-Design UI - visual layer on the top, color, typogoraphy, white space usage 
-Develop and Test - user testing
+1. What is UX
+2. Discover - a problem
+3. Define - ideation, applying it to a problem
+4. Design UX
+5. Design UI - visual layer on the top, color, typogoraphy, white space usage 
+6. Develop and Test - user testing
 
 
 ### 5 characteristics of good UX:
@@ -27,7 +27,7 @@ Satisfying - so people want to come back
 #### Desirable experience = good business 
 
 ```markdown
-**Research** and _observation_ 
+**Research** and _specifying_ 
 
 [WHO Report](url) and ![Infant Mortality Rate](https://c.tribune.com.pk/2018/02/1639445-babies-1519112041-574-640x480.jpg)
 ```
