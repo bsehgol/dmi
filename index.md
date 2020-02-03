@@ -27,9 +27,9 @@ Satisfying - so people want to come back
 #### Desirable experience = good business 
 
 ```markdown
-**Research** and _specifying_ 
+**Research and _ideation_***
 
-[WHO Report](url) and ![Infant Mortality Rate](https://c.tribune.com.pk/2018/02/1639445-babies-1519112041-574-640x480.jpg)
+[WHO Report](url) and ![Infant Mortality Rate](https://images.unsplash.com/photo-1562887106-0ba63ac82e02?ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=416&h=312&q=60)
 ```
 
 
