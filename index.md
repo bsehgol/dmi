@@ -1,4 +1,4 @@
-## Welcome to Designing Meaningful Interactions by Katherine Dillon
+# Welcome to Designing Meaningful Interactions by Katherine Dillon
 
 You can view [Week 1 assignment](https://docs.google.com/presentation/d/1vgpuJA4gBx7ddJbG7qAa_ueDPiDff4OaIl3Gv5FYZaU/edit#slide=id.p) to get an overview of the issue we discussed in class. 
 
@@ -21,22 +21,15 @@ Anticipates errors
 Satisfying - so people want to come back
 ```
 
-# A lot of ux designers call themselves product designers.
-## Product shouldn’t come with a manual with instructions it should be intuitive. 
-### Focus on the user and all else will follow 
+#### A lot of ux designers call themselves product designers.
+### Product shouldn’t come with a manual with instructions it should be intuitive. 
+#### Focus on the user and all else will follow 
 #### Desirable experience = good business 
+
 ```markdown
-- Bulleted
-- List
+**Research** and _observation_ 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](url) and ![Infant Mortality Rate](https://c.tribune.com.pk/2018/02/1639445-babies-1519112041-574-640x480.jpg)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
