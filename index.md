@@ -7,7 +7,25 @@
 
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/86138730-5a45-4248-97e5-290b9dff342f" id="cF7wV2W6cnN_"></iframe></div>
 
-You can view ![Week 2 assignment](https://docs.google.com/presentation/d/1rmCEI9mxrBIwhK_9jC0UuLdtaj3pPm7GnEphu9-QTo4/edit?usp=sharing) to get an overivew of the Journey Map under consideration. 
+-Forgetfulness - Reminder notification to help parents remember the upcoming doctor visit is not there.
+
+-Skipping work  - To help parents prepare & plan for half-day off, or take a complete day off depending on vaccine  related symptoms there should be a calendar for upcoming vistations.
+
+- Communication issue - Doctor may not be able to convey what the parents must understand. Maximum growth of brain occurs during the first year of life. The baby learns to sit and walk and talk. Milestones are achieved and extra care is required during the first year. Parents may have unanswered questions in this fast paced context
+
+- Waiting time is long - the practice is often crowded with parents and their children and the doctor is too busy. 
+
+- Consultation time is limited - time that doctor provides for examination and Q/A is not adequate and does not satisfy the parents. 
+
+- Questionnaire  that parents share at the end of the visit  is not shareable with the doctor before the visit. 
+
+- Yellow Card does not mention the timeline of  upcoming events, it just mentions retrospective information. Parents cannot plan their next visit using the Yellow Card
+
+- Yellow Card is a manual record keeping system that parents may forget to bring along or lose. There is no detailed medical history accessible to parents that they can take back home with them. 
+
+- Yellow Card has complex graphs on it that parents have to plot on manually and they do not fully understand the concept of percentiles that the graph plots. 
+
+You may also view the presentation here: [Week 2 assignment](https://docs.google.com/presentation/d/1rmCEI9mxrBIwhK_9jC0UuLdtaj3pPm7GnEphu9-QTo4/edit?usp=sharing) Draft work may be viewed here: [Draft](https://docs.google.com/presentation/d/1PdGTNkk3kwJqzzhY7qmCddiQNnnOptJWOikt1MQV4B0/edit#slide=id.g6ecccd1907_0_165)
 
 
 
