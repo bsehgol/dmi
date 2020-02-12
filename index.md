@@ -8,6 +8,8 @@
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/86138730-5a45-4248-97e5-290b9dff342f" id="cF7wV2W6cnN_"></iframe></div>
 
 ### Journey Map and Pain Points:
+
+![journeymap](https://ibb.co/4RWRjD2)
 - Forgetfulness - Reminder notification to help parents remember the upcoming doctor visit is not there.
 
 - Skipping work  - To help parents prepare & plan for half-day off, or take a complete day off depending on vaccine  related symptoms there should be a calendar for upcoming vistations.
@@ -26,7 +28,7 @@
 
 - Yellow Card has complex graphs on it that parents have to plot on manually and they do not fully understand the concept of percentiles that the graph plots. 
 
-You may also view the presentation here: [Week 2 assignment](https://docs.google.com/presentation/d/1rmCEI9mxrBIwhK_9jC0UuLdtaj3pPm7GnEphu9-QTo4/edit?usp=sharing) Draft work may be viewed here: [Draft](https://docs.google.com/presentation/d/1PdGTNkk3kwJqzzhY7qmCddiQNnnOptJWOikt1MQV4B0/edit#slide=id.g6ecccd1907_0_165)
+You may also view the presentation here: [Week 2 assignment](https://docs.google.com/presentation/d/1rmCEI9mxrBIwhK_9jC0UuLdtaj3pPm7GnEphu9-QTo4/edit?usp=sharing), additional work may be viewed here: [Draft](https://docs.google.com/presentation/d/1PdGTNkk3kwJqzzhY7qmCddiQNnnOptJWOikt1MQV4B0/edit#slide=id.g6ecccd1907_0_165)
 
 
 
