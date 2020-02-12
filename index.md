@@ -1,11 +1,19 @@
 ## Welcome to Designing Meaningful Interactions by Katherine Dillon
 
 
+The persona is a college educated, 30-35 year old, Natalie, living in a city married household with a combined 150k income.
+Her goals include establishing herself in the city and raise a family,they're a young couple, 
+Her motivation is to track her baby's health she is responsible for,and have something to keep a record of her baby's health.
+Her frustrations are that communication styles are incomplete and the use of yellow card is fruitless.
+Future Behavior could include more transparent communicationn with the pediatrician, acces to messages, if in an app one can plug in data from the baby, and it tells percentile *(not having to compute), or look into CDC scedhule, if it can tell which medicial visit and vaccination is coming up, and which side effects should you be looking out for ( example benadryl has allergies), expectations can be planned! 
 
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/0c71de23-71a6-41f7-945e-6614a8a51a0b" id="OG7wMhvW_Dvr"></iframe></div>
 
+Feeiings that call for intervention vary from anxiousness and insecurity of parenting a child for the first time, to harassment due to sleeplessness and constant need of baby care nobody else would do for you.
 
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/86138730-5a45-4248-97e5-290b9dff342f" id="cF7wV2W6cnN_"></iframe></div>
+
+
 
 <a href="https://ibb.co/4RWRjD2"><img src="https://i.ibb.co/HT7TrMC/Screen-Shot-2020-02-12-at-1-17-52-AM.png" alt="Screen-Shot-2020-02-12-at-1-17-52-AM" border="0"></a>
 
