@@ -1,14 +1,13 @@
 ## Welcome to Designing Meaningful Interactions by Katherine Dillon
 
 
-### Persona: 
+
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/0c71de23-71a6-41f7-945e-6614a8a51a0b" id="OG7wMhvW_Dvr"></iframe></div>
 
-### Empathy Map:
+
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/86138730-5a45-4248-97e5-290b9dff342f" id="cF7wV2W6cnN_"></iframe></div>
 
-### Journey Map: 
-You can view ![Week 2 assignment] (https://docs.google.com/presentation/d/1rmCEI9mxrBIwhK_9jC0UuLdtaj3pPm7GnEphu9-QTo4/edit#slide=id.p) to get an overivew of the Persona, Empathy Map, and Journey Map under consideration. 
+You can view ![Week 2 assignment](https://docs.google.com/presentation/d/1rmCEI9mxrBIwhK_9jC0UuLdtaj3pPm7GnEphu9-QTo4/edit?usp=sharing) to get an overivew of the Journey Map under consideration. 
 
 
 
