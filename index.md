@@ -10,6 +10,10 @@
 ### Journey Map and Pain Points:
 
 ![journeymap](https://ibb.co/4RWRjD2)
+
+<a href="https://ibb.co/4RWRjD2"><img src="https://i.ibb.co/HT7TrMC/Screen-Shot-2020-02-12-at-1-17-52-AM.png" alt="Screen-Shot-2020-02-12-at-1-17-52-AM" border="0"></a>
+
+
 - Forgetfulness - Reminder notification to help parents remember the upcoming doctor visit is not there.
 
 - Skipping work  - To help parents prepare & plan for half-day off, or take a complete day off depending on vaccine  related symptoms there should be a calendar for upcoming vistations.
