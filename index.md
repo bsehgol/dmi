@@ -1,11 +1,15 @@
 ## Welcome to Designing Meaningful Interactions by Katherine Dillon
 
 
+
+
+
+
 The persona is a college educated, 30-35 year old, Natalie, living in a city married household with a combined 150k income.
 Her goals include establishing herself in the city and raise a family,they're a young couple, 
 Her motivation is to track her baby's health she is responsible for,and have something to keep a record of her baby's health.
 Her frustrations are that communication styles are incomplete and the use of yellow card is fruitless.
-Future Behavior could include more transparent communicationn with the pediatrician, acces to messages, if in an app one can plug in data from the baby, and it tells percentile *(not having to compute), or look into CDC scedhule, if it can tell which medicial visit and vaccination is coming up, and which side effects should you be looking out for ( example benadryl has allergies), expectations can be planned! 
+Future Behavior could include more transparent communicationn with the pediatrician, acces to messages, if in an app one can plug in data from the baby, and it tells percentile *(not having to compute), or look into CDC schedule, if it can tell which medicial visit and vaccination is coming up, and which side effects should you be looking out for ( example benadryl has allergies), expectations can be planned! 
 
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/0c71de23-71a6-41f7-945e-6614a8a51a0b" id="OG7wMhvW_Dvr"></iframe></div>
 
