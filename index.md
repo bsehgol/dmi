@@ -9,7 +9,7 @@ The persona is a college educated, 30-35 year old, Natalie, living in the city i
 
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/0c71de23-71a6-41f7-945e-6614a8a51a0b" id="OG7wMhvW_Dvr"></iframe></div>
 
-Feeiings that call for intervention vary from anxiousness and insecurity of parenting a child for the first time, to harassment due to sleeplessness and constant need of baby care nobody else would do for you.
+Feeiings that call for intervention vary from anxiousness and insecurity of parenting a child for the first time, to harassment due to sleeplessness and constant need of baby care nobody else would do for you. Parents feel a sort of inadequacy when they're unable to monitor and plan around their childs health.
 
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/86138730-5a45-4248-97e5-290b9dff342f" id="cF7wV2W6cnN_"></iframe></div>
 
