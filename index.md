@@ -7,9 +7,10 @@
 
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/86138730-5a45-4248-97e5-290b9dff342f" id="cF7wV2W6cnN_"></iframe></div>
 
--Forgetfulness - Reminder notification to help parents remember the upcoming doctor visit is not there.
+### Journey Map and Pain Points:
+- Forgetfulness - Reminder notification to help parents remember the upcoming doctor visit is not there.
 
--Skipping work  - To help parents prepare & plan for half-day off, or take a complete day off depending on vaccine  related symptoms there should be a calendar for upcoming vistations.
+- Skipping work  - To help parents prepare & plan for half-day off, or take a complete day off depending on vaccine  related symptoms there should be a calendar for upcoming vistations.
 
 - Communication issue - Doctor may not be able to convey what the parents must understand. Maximum growth of brain occurs during the first year of life. The baby learns to sit and walk and talk. Milestones are achieved and extra care is required during the first year. Parents may have unanswered questions in this fast paced context
 
