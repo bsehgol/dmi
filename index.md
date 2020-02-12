@@ -7,10 +7,6 @@
 
 <div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/86138730-5a45-4248-97e5-290b9dff342f" id="cF7wV2W6cnN_"></iframe></div>
 
-### Journey Map and Pain Points:
-
-![journeymap](https://ibb.co/4RWRjD2)
-
 <a href="https://ibb.co/4RWRjD2"><img src="https://i.ibb.co/HT7TrMC/Screen-Shot-2020-02-12-at-1-17-52-AM.png" alt="Screen-Shot-2020-02-12-at-1-17-52-AM" border="0"></a>
 
 
