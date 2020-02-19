@@ -2,7 +2,7 @@
 
 
 
-You can view [Week 4 presentation] (https://docs.google.com/presentation/d/1d0VlyH_sJjfWlDtPem4eYXyoOKvPOLYIcXUFmmIPWgE/edit?usp=sharing) to see the problem we are trying to solve and the future state journey map!
+You can view [Week 4 presentation](https://docs.google.com/presentation/d/1d0VlyH_sJjfWlDtPem4eYXyoOKvPOLYIcXUFmmIPWgE/edit?usp=sharing) to see the problem we are trying to solve and the future state journey map!
 
 
 The persona is a college educated, 30-35 year old, Natalie, living in the city in a married household with a combined $150K income. Her goals include establishing herself in the city and raising a family. Her motivation is to track her baby's health she is responsible for,and have something to keep a record of her baby's health. Her frustrations are that communication styles are incomplete and the use of yellow card is fruitless. Current behavior entails anxiousness and insecurity in an uncharterd territory. Future Behavior could include more transparent communicationn with the pediatrician, acces to messages,i.e. if in an app one can plug in data from the baby, and the app can tell height/weight percentile (not having to manually compute height/weight percentile). Also rather than looking into CDC schedule online, if the app can tell which medicial visit and vaccination is coming up, and which side effects should you be looking out for (example Benadryl has allergies), expectations can be planned! 
