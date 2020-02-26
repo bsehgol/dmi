@@ -2,23 +2,23 @@
 
 
 ### Illana recommended that the user flow should include sign up, login, and onboarding..
-[User Flow - Yellow Card App (1)](User Flow - Yellow Card App (1).png)
+![userflow1](userflow1.png)
 
 ### The main user-experience however starts with Day's interface.
-[userflow-2](userflow-2.jpg)
+![userflow-2](userflow-2.jpg)
 
 ### The calendar choices would look something like
-[yellowcard-calendar](yellowcard-calendar.jpg)
+![yellowcard-calendar](yellowcard-calendar.jpg)
 
 ### The old yellow card is being replaced by Data Visualizations that may look like
 
-[userflow-pudding1](userflow-pudding1.png)
+![userflow-pudding1](userflow-pudding1.png)
 
-[userflow-pudding2](userflow-pudding2.png)
+![userflow-pudding2](userflow-pudding2.png)
 
 ### The Vaccines and Milestones interface would borrow from this visualization
 
-[userflow-pudding3](userflow-pudding3.png)
+![userflow-pudding3](userflow-pudding3.png)
 
 
 
