@@ -1,6 +1,28 @@
 ## Welcome to Designing Meaningful Interactions by Katherine Dillon
 
 
+### Illana recommended that the user flow should include sign up, login, and onboarding..
+[User Flow - Yellow Card App (1)](User Flow - Yellow Card App (1).png)
+
+### The main user-experience however starts with Day's interface.
+[userflow-2](userflow-2.jpg)
+
+### The calendar choices would look something like
+[yellowcard-calendar](yellowcard-calendar.jpg)
+
+### The old yellow card is being replaced by Data Visualizations that may look like
+
+[userflow-pudding1](userflow-pudding1.png)
+
+[userflow-pudding2](userflow-pudding2.png)
+
+### The Vaccines and Milestones interface would borrow from this visualization
+
+[userflow-pudding3](userflow-pudding3.png)
+
+
+
+
 
 You can view [Week 4 presentation](https://docs.google.com/presentation/d/1d0VlyH_sJjfWlDtPem4eYXyoOKvPOLYIcXUFmmIPWgE/edit?usp=sharing) to see the problem we are trying to solve and the future state journey map!
 
