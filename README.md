@@ -2,9 +2,9 @@
 
 ### Final Presentation and Prototype
 
-![Please click here to view the presentation](https://docs.google.com/presentation/d/1eQ5gk3GaujwqQBGPxoOb5xVo9LGcCpH-kGbljXz-sUY/edit?usp=sharing)
+[Please click here to view the presentation](https://docs.google.com/presentation/d/1eQ5gk3GaujwqQBGPxoOb5xVo9LGcCpH-kGbljXz-sUY/edit?usp=sharing)
 
-![The prototype is here](prototype.pdf)
+[The prototype is here](prototype.pdf)
 
 ### User flow sign up, login, and onboarding..
 ![userflow1](userflow1.png)
